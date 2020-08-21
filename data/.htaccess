@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule data/per_000001$ https://onderzoek.advn.be/viewer.p/18/255/object/953-603615 [R=302,NC,NE,L]
+RewriteRule data/per_000002$ https://onderzoek.advn.be/viewer.p/18/255/object/953-603616 [R=302,NC,NE,L]
+RewriteRule data/per_000003$ https://onderzoek.advn.be/viewer.p/18/255/object/953-600670 [R=302,NC,NE,L]
+RewriteRule data/per_000004$ https://onderzoek.advn.be/viewer.p/18/255/object/953-615578 [R=302,NC,NE,L]
+RewriteRule data/per_000005$ https://onderzoek.advn.be/viewer.p/18/255/object/953-615579 [R=302,NC,NE,L]
+RewriteRule data/per_000006$ https://onderzoek.advn.be/viewer.p/18/255/object/953-600671 [R=302,NC,NE,L]
+RewriteRule data/per_000007$ https://onderzoek.advn.be/viewer.p/18/255/object/953-600672 [R=302,NC,NE,L]
+RewriteRule data/per_000008$ https://onderzoek.advn.be/viewer.p/18/255/object/953-604980 [R=302,NC,NE,L]
+RewriteRule data/per_000009$ https://onderzoek.advn.be/viewer.p/18/255/object/953-604981 [R=302,NC,NE,L]
