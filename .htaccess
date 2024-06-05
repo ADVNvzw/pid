@@ -29559,3 +29559,4 @@ RewriteRule id/geb-003191$ https://onderzoek.advn.be/viewer.p/18/255/object/965-
 RewriteRule id/geb-003192$ https://onderzoek.advn.be/viewer.p/18/255/object/965-754051 [R=302,NC,NE,L]
 RewriteRule id/geb-003193$ https://onderzoek.advn.be/viewer.p/18/255/object/965-754081 [R=302,NC,NE,L]
 RewriteRule id/geb-003194$ https://onderzoek.advn.be/viewer.p/18/255/object/965-754175 [R=302,NC,NE,L]
+RewriteRule doc/NE005694$ https://advn.be/nl/db/NE005694 [R=302,NC,NE,L]
